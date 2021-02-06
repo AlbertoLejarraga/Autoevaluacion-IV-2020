@@ -8,7 +8,7 @@ Dicha clase puede encontrarse en [este fichero](https://github.com/AlbertoLejarr
 ![Clase rpe](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%203-TDD/img/rpe.png)
 
 ### Fichero de prueba
-Por otro lado, el fichero donde se codifican las pruebas es [este](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/master/Semana%203-TDD/src/pruebaAssert.js)
+Por otro lado, el fichero donde se codifican las pruebas es [este](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%203-TDD/src/pruebaAssert.js)
 
 ### Resultado
 Por último, la ejecución del programa devuelve la salida esperada:
