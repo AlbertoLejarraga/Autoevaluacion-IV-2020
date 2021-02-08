@@ -1,4 +1,5 @@
 FROM alpine:latest
+LABEL version="1.0.0" maintainer="alejarragar@correo.ugr.es"
 
 WORKDIR /root/
 
